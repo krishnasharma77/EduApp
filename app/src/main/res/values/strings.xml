@@ -1,0 +1,44 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="or_continue_with">Continue with</string>
+    <string name="email">Email</string>
+    <string name="username">Enter Your Name</string>
+    <string name="useremail">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="forgotpass"><u>ForgotPassword</u></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_to_edu_ncreate_an_account">New to LearnHub? \n Create an account</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="login">Login</string>
+    <string name="allow_all_permission">Allow all permissions</string>
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+    <string name="loading">Loading...</string>
+    <string name="usernumber_required">User Number Required</string>
+    <string name="useremail_required">User Email Required</string>
+    <string name="userpass_required">User PassWord Required</string>
+    <string name="account_created_successfully">Account craeted Successfully</string>
+    <string name="error_in_registeration">error in registration</string>
+    <string name="error_in_login">error in login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="app_name">Learn Hub</string>
+    <string name="ADTS">app_name</string>
+    <string name="facebook_app_id">1132859497515019</string>
+    <string name="fb_login_protocol_scheme">fb1132859497515019</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="pass_required">Old PassWord Required</string>
+    <string name="editprofile"><u>EditProfile</u></string>
+    <string name="txt_progress">Please Wait&#8230;</string>
+    <!--    <string name="google">-->
+    <!--    <a href="">Article Link</a>-->
+    <!--</string>-->
+    <string name="enter_mobile_no_email_id">Enter Mobile No / Email ID</string>
+    <string name="read_more"><u>Read More...</u></string>
+    <string name="resources">Resources</string>
+
+
+</resources>

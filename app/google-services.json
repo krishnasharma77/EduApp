@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570255384812",
+    "project_id": "adts-61971",
+    "storage_bucket": "adts-61971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570255384812:android:b2e403ec05d38b226845c9",
+        "android_client_info": {
+          "package_name": "com.adts.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570255384812-22r4iabn2s5kl8jj9e394eqamu82mqrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adts.app",
+            "certificate_hash": "0540d08cb948f81e34536d5126eb71be0510f6e8"
+          }
+        },
+        {
+          "client_id": "570255384812-119jjt6gegis6aqsgbpk9ufgch25g7lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAjewt-25lDDc6rxJUTujJExocIZPspQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570255384812-119jjt6gegis6aqsgbpk9ufgch25g7lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
